@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 i used somthing new
+=======
+plastics
+batteries
+wires
+>>>>>>> feature/new
